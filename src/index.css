@@ -1,0 +1,88 @@
+body {
+  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  border-color: blue;
+  border-radius: 50px;
+  border: groove;
+  margin: 50px 400px 50px 400px;
+  padding: 50px 50px 50px 50px;
+  background-color: CadetBlue;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.todo {
+  cursor: pointer;
+}
+.strike {
+  text-decoration: line-through;
+}
+
+
+
+/*---Header Style---*/
+.headerstyle{
+color: Navy;
+background-color: AntiqueWhite;
+text-align: center;
+font-weight: bolder;
+font-style: italic;
+margin: 10px 10px 10px 10px;
+padding: 5px 5px 5px 5px;
+}
+
+/*---Submit Button Style---*/
+.button{
+  color: blue;
+  margin-left: 20px;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+
+}
+
+/*---Input Feild Style---*/
+.inputfeild{
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+/*---Form Area Style---*/
+.form{
+  color: blue;
+  background-color: AntiqueWhite;
+  text-align: center;
+  margin: -10px 10px 10px 10px;
+  padding: 15px 15px 15px 15px;
+}
+
+/*---Clear Button Style---*/
+.clearbutton{
+  color: black;
+  background-color: lightgreen;
+  margin-left: 200px;
+  font-weight: bolder;
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+/*---List Area Style---*/
+.list{
+  color: black;
+  background-color: Bisque;
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+  padding: 15px 15px 15px 15px;
+}
+
+
